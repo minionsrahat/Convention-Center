@@ -138,6 +138,7 @@ font-size: 16px;
     background-color: #fafafac2;
     box-shadow: 0px 42px 34px rgba(193, 198, 206, 0.4);
     border-radius: 8px;
+    transition-duration: 0.8s;
 }
 
 .services-wrap h3 {
